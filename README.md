@@ -2,7 +2,9 @@ Coinolith
 =========
 Work in Progress of Realtime Cryptocoin Exchange Apis for the [Intuition trade platform](https://github.com/intuition-io).  Not production ready or tested for real transactions at this time.  Infact only the public apis are being made available at this time. So socket bash and crash away.
 
-Exchanges with websocket api wre being given priority
+Exchanges with websocket api are being given priority.  Rest Exchanges will follow and welcomed anytime.
+
+
 
 Planned Exchange Support:
     
@@ -20,6 +22,7 @@ Dependencies:
 Api Schema:
 
    exchange/public/client
+   
    exchange/private/client
 
 Python 2.7x Example:
