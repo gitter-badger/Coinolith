@@ -3,7 +3,7 @@ Coinolith
 
 **Coinolith Features:**
 
-    Planned Support for the main cryptocurrency exchanges by volume
+    Planned Support for the main cryptocurrency exchanges
 
     Easy to use Api!
 
@@ -11,7 +11,7 @@ Coinolith
 
     Error and exception handling without blowing up the runtime.
 
-    Built for the advanced Intuition.io trade platform
+    Built for the advanced Intuition.io trade platform made for hackers
 
 
 **Planned Exchange Support:**
@@ -35,7 +35,7 @@ Coinolith
 
 ##Description
 
-The [Intuition.io trade platform](https://github.com/intuition-io) provides a distributed self hosted p2p collaborative trade platform for hackers and centrally hosted platform for normal users.   Intuition.io provides analysis, backtesting, and execution using python, R, and Golang but until now no support for currencies.
+The [Intuition.io trade platform](https://github.com/intuition-io) provides a distributed self hosted p2p collaborative trade platform for hackers and centrally hosted platform for users who want a web app interface.   Intuition.io provides analysis, backtesting, and execution using Python, R, and Golang and now  with **Coinolith** support for virtual currency exchanges.
 
 Coinolith is a *Work in Progress* of real time cryptocoin exchange apis for the [Intuition trade platform](https://github.com/intuition-io).
 
