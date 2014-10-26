@@ -1,0 +1,9 @@
+__author__ = "james rubino github.com/jcrubino"
+__copyright__ = "Copyright 2014, Coinolith for Intution and Insight"
+__credits__ = ["james.rubino"]
+__license__ = "MIT"
+__version__ = "0.0.1"
+__maintainer__ = "github.com/bittrade"
+__email__ = "github.com/bittrade"
+__status__ = "WIP pre-alpha"
+__description__ ="Okcoin ws api for the coinolith python library of cryptocoin exchange apis"

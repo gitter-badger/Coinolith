@@ -24,9 +24,9 @@ from websocket import create_connection
 
 class Client(object):
     """
-    web socket client class to connect to okcoin
+    okcoin web socket client class
     """
-    def __init__(self, ):
+    def __init__(self):
         """
         initialization of class instance
         automatically connects to okcoin
