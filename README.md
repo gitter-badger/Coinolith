@@ -30,7 +30,7 @@ Api Schema:
 
 Python 2.7x Example:
 
-    import okcoin.public.client
+    import okcoin.public.Client
 
     okcoin = okcoin.public.client()
     okcoin.list_channels()
