@@ -16,7 +16,7 @@ Coinolith
 
 **Planned Exchange Support:**
     
-    Okcoin, Huobi, BtcChina, LakeBTC, Bitstamp
+    Okcoin, Huobi, BtcChina, LakeBTC, Bitstamp, Anx
 
 **Eventual Support:**
     
