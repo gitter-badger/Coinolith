@@ -1,46 +1,49 @@
 Coinolith
 =========
 
-*Coinolith Features:*
+**Coinolith Features:**
 
     Planned Support for the main cryptocurrency exchanges by volume
 
     Easy to use Api!
 
-    Made with Python!
+    Made with Python so you can optimize however you want!
 
     Error and exception handling without blowing up the runtime.
 
-    Built for the rapidly advancing Intuition.io trade platform
+    Built for the advanced Intuition.io trade platform
 
 
-*Planned Exchange Support:*
+**Planned Exchange Support:**
     
     Okcoin, Huobi, BtcChina, LakeBTC, Bitstamp
 
-*Eventual Support:*
+**Eventual Support:**
+    
     Bitfinex, itBit, Kraken, BTC38, Bter, Bittrex, Cryptsy
 
-*Support The Goals and Pace of this Project:*
+**Support The Goals and Pace of this Project:**
 
     1BLPCmwoaCZxWPEJVbqVvhkUbn64Lsm8Qo
 
-*Or Contact for Support on this or you own system:*
+**Contact**
 
-    [Gitter.im](gitter.im/BitTrade)
+   [Gitter](gitter.im/BitTrade)
+ 
 
 
-### Description
 
-The [Intuition trade platform](https://github.com/intuition-io) is a p2p collaborative trade platform in progress.  It provides analysis, backtesting, and execution using python, R, golang.  
+##Description
+
+The [Intuition.io trade platform](https://github.com/intuition-io) provides a distributed self hosted p2p collaborative trade platform for hackers and centrally hosted platform for normal users.   Intuition.io provides analysis, backtesting, and execution using python, R, and Golang but until now no support for currencies.
 
 Coinolith is a *Work in Progress* of real time cryptocoin exchange apis for the [Intuition trade platform](https://github.com/intuition-io).
 
 
 Dependencies:
    
-    websocket-client:   pip install websocket
-    requests:           pip install requests
+    websocket-client   pip install websocket
+    requests           pip install requests
 
 
 API Schema:
