@@ -63,7 +63,8 @@ Python 2.7x Example:
     okcoin.subscribe('ok_btccny_ticker')
 
     while 1:
-        for msg in okcoin.ws.recv():
+        messages = okcoin.ws.recv():
+        for msg in messages:
             print(msg)
         
 
