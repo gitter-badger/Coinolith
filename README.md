@@ -56,9 +56,9 @@ API Schema:
 
 Python 2.7x Example:
 
-    import okcoin.public.Client
+    import okcoin.public
 
-    okcoin = okcoin.public.client()
+    okcoin = okcoin.public.Client()
     okcoin.list_channels()
     okcoin.subscribe('ok_btccny_ticker')
 
