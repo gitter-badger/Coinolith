@@ -1,7 +1,7 @@
 Coinolith
 =========
 
-Coinolith Features:
+*Coinolith Features:*
 
     Planned Support for the main cryptocurrency exchanges by volume
 
@@ -14,17 +14,18 @@ Coinolith Features:
     Built for the rapidly advancing Intuition.io trade platform
 
 
-Planned Exchange Support:
+*Planned Exchange Support:*
     
     Okcoin, Huobi, BtcChina, LakeBTC, Bitstamp
 
-Eventual Support:
+*Eventual Support:*
     Bitfinex, itBit, Kraken, BTC38, Bter, Bittrex, Cryptsy
 
-Support The Goals and Pace of this Project:
+*Support The Goals and Pace of this Project:*
+
     1BLPCmwoaCZxWPEJVbqVvhkUbn64Lsm8Qo
 
-Or Contact for Support on this or you own system:
+*Or Contact for Support on this or you own system:*
 
     [Gitter.im](gitter.im/BitTrade)
 
