@@ -134,6 +134,9 @@ class Client(object):
 
     def open_all_streams(self):
         """
+        note: probably not a great idea, might change to subscribe to all channels
+        let user route messages to desired endpoints.
+        
         creates a dict of ws connections, each dedicated to a specific channel
         dict found as Okcoin.public.streams
         premptively closes any open connections in streams
