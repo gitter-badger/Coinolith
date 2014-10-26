@@ -1,6 +1,6 @@
 Coinolith
 =========
-The [Intuition trade platform](https://github.com/intuition-io) is a python and golang based p2p collaborate trade system in progress.  It provides analysis and backtesting with python and R and execution apis in python and golang.
+The [Intuition trade platform](https://github.com/intuition-io) is a p2p collaborative trade platform in progress.  It provides analysis and backtesting with python and R and execution apis in python and golang.
 
 Coinolith is a *Work in Progress* of Realtime Cryptocoin Exchange Apis for the [Intuition trade platform](https://github.com/intuition-io).  Not production ready or tested for real transactions at this time.  In fact only the public apis are being made available at this time. So socket bash and crash away.  
 
