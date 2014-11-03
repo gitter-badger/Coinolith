@@ -1,8 +1,14 @@
+<head>
+<meta name="google-translate-customization" content="f31da71bc0931632-6ef0cdc90c75472e-g1b3e94b8cfb8c5f4-13"></meta>
+</head>
+
 Coinolith
 =========
-<!-- TranslateClient BEGIN -->
-<script type="text/javascript" src="http://www.google.com/jsapi"></script><script language="javascript">var gtc_stl='http://translateclient.com/js/widget/gtc.css';</script><script type="text/javascript" src="http://translateclient.com/js/widget/gtc.js"></script><script language="javascript">translateclient.srclang="en";translateclient.checkload();gtc_ws=1;</script><div id="gtc_pan"><div id="gtc_t">Just select text on the page and get instant translation from Google Translate!</div><label><input id="gtc_chk" type="checkbox" checked="checked" />Translate to </label><select id="gtc_lang"></select><br><a id="gtc_w" href=""></a> <a id="gtc_d" href="http://translateclient.com">Google Translate Client</a></div>
-<!-- TranslateClient END -->
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.FloatPosition.TOP_LEFT}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 
 **Coinolith Features:**
