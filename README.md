@@ -1,5 +1,9 @@
 Coinolith
 =========
+<!-- TranslateClient BEGIN -->
+<script type="text/javascript" src="http://www.google.com/jsapi"></script><script language="javascript">var gtc_stl='http://translateclient.com/js/widget/gtc.css';</script><script type="text/javascript" src="http://translateclient.com/js/widget/gtc.js"></script><script language="javascript">translateclient.srclang="en";translateclient.checkload();gtc_ws=1;</script><div id="gtc_pan"><div id="gtc_t">Just select text on the page and get instant translation from Google Translate!</div><label><input id="gtc_chk" type="checkbox" checked="checked" />Translate to </label><select id="gtc_lang"></select><br><a id="gtc_w" href=""></a> <a id="gtc_d" href="http://translateclient.com">Google Translate Client</a></div>
+<!-- TranslateClient END -->
+
 
 **Coinolith Features:**
 
