@@ -38,7 +38,7 @@ function googleTranslateElementInit() {
 
 **Contact**
 
-   [Gitter](gitter.im/BitTrade)
+   [Gitter](https://gitter.im/BitTrade)
  
 
 
