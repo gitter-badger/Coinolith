@@ -34,7 +34,7 @@ function googleTranslateElementInit() {
 
 **Support The Goals and Pace of this Project:**
 
-    1BLPCmwoaCZxWPEJVbqVvhkUbn64Lsm8Qo
+    
 
 **Contact**
 
