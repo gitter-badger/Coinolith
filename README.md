@@ -33,7 +33,7 @@ function googleTranslateElementInit() {
     Bitfinex, itBit, Kraken, BTC38, Bter, Bittrex, Cryptsy
 
 **Support The Goals and Pace of this Project:**
-
+    1DM96cbGrBxDT2dLzsUxxD5AYi7k9Lto96
     
 
 **Contact**
