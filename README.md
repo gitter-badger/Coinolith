@@ -56,7 +56,7 @@ Dependencies:
     requests           pip install requests
     serialization      pip install pycapnproto
     system routing     pip install crossbar
-    json parsing       pip install pyjsonpp
+    json parsing       pip install jsoncpp
 
 
 
