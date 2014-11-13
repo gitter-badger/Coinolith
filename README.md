@@ -15,13 +15,17 @@ function googleTranslateElementInit() {
 
     Planned Support for the main cryptocurrency exchanges
 
-    Easy to use Api!
+    Easy to use Python Api!
 
-    Made with Python so you can optimize however you want!
+    Extend your own services in C++, Golang, Rust, Erlang, etc.
 
-    Error and exception handling without blowing up the runtime.
+    Captain Proto Inter-Service Serialization and RPC
 
-    Built for the advanced Intuition.io trade platform made for hackers
+    FIX 4.4 Trade Execution and Monitoring
+    
+    Market Monitoring, Event Processing, Trade Execution, Account Risk Management
+    
+    Integration with Intution.io and Insights.io
 
 
 **Planned Exchange Support:**
