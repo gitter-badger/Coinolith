@@ -32,8 +32,6 @@ function googleTranslateElementInit() {
     
     Okcoin, Huobi, BtcChina, LakeBTC, Bitstamp, Anx
 
-**Eventual Support:**
-    
     Bitfinex, itBit, Kraken, BTC38, Bter, Bittrex, Cryptsy
 
 **Support The Goals and Pace of this Project:**
