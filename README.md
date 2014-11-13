@@ -47,38 +47,20 @@ function googleTranslateElementInit() {
 
 ##Description
 
-The [Intuition.io trade platform](https://github.com/intuition-io) provides a distributed self hosted p2p collaborative trade platform for hackers and centrally hosted platform for users who want a web app interface.   Intuition.io provides analysis, backtesting, and execution using Python, R, and Golang and now  with **Coinolith** support for virtual currency exchanges.
-
-Coinolith is a *Work in Progress* of real time cryptocoin exchange apis for the [Intuition trade platform](https://github.com/intuition-io).
-
+Coinolith is a basic efficient and easy to optimize algorithmic trade framework for cryptocurrencies.
+It offers connectivity, parsing, serialization and easy to extend core services in the language of your choice and integration with [Intuition.io trade and research platform](https://github.com/intuition-io). 
 
 Dependencies:
    
     websocket-client   pip install websocket
     requests           pip install requests
-
-
-API Schema:
-
-   exchange/public/client
-
-   exchange/private/client
+    serialization      pip install pycapnproto
+    system routing     pip install crossbar
+    json parsing       pip install pyjsonpp
 
 
 
-Python 2.7x Example:
 
-    import okcoin.public
-
-    okcoin = okcoin.public.Client()
-    okcoin.list_channels()
-    okcoin.subscribe('ok_btccny_ticker')
-
-    while 1:
-        messages = okcoin.ws.recv():
-        for msg in messages:
-            print(msg)
-        
 
 
 
